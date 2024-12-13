@@ -1,0 +1,297 @@
+@media (min-width:1025px) and (max-width:1275px) {
+    .box {
+        width: 35%;
+        height: 70%;
+        padding: 3vw 4vw;
+        
+    }
+    
+    .box h3 {
+        margin-bottom: 2.4vw;
+        font-size: 2vw;
+    }
+    
+    form input {
+        
+        height: 2.4vw;
+        margin-bottom: 1.7vw;
+        margin-top: 0.2vw;
+    }
+    
+    form textarea {
+        width: 100%;
+        height: 5.5vw;
+    }
+    form p{
+        
+         font-size: 1.5vw;
+    }
+    form > h4{ 
+        margin-top: 1.2vw;
+        font-size: 1.3vw;
+      
+    }
+    .box button{
+        margin-top: 2vw;
+        
+        font-size: 1.2vw;
+        padding: 0.9vw 1.7vw;
+       
+    }
+   
+}
+@media (min-width:875px) and (max-width:1025px) {
+    .box {
+        width: 40%;
+        height: 67%;
+        padding: 3vw 4vw;
+        
+    }
+    
+    .box h3 {
+        margin-bottom: 2.5vw;
+        font-size: 2.2vw;
+    }
+    
+    form input {
+        
+        height: 2.5vw;
+        margin-bottom: 1.8vw;
+        margin-top: 0.2vw;
+    }
+    
+    form textarea {
+        width: 100%;
+        height: 5.6vw;
+    }
+    form p{
+        
+         font-size: 1.7vw;
+    }
+    form > h4{ 
+        margin-top: 1.2vw;
+        font-size: 1.5vw;
+      
+    }
+    .box button{
+        margin-top: 2vw;
+        
+        font-size: 1.4vw;
+        padding: 0.9vw 1.7vw;
+       
+    }
+    
+}
+@media (min-width:725px) and (max-width:875px) {
+
+    .box {
+        width: 45%;
+        height: 64%;
+        padding: 4vw 3vw;
+        
+    }
+    
+    .box h3 {
+        margin-bottom: 2.5vw;
+        font-size: 2.4vw;
+    }
+    
+    form input{
+        
+        height: 2.7vw;
+        margin-bottom: 1.8vw;
+        margin-top: 0.2vw;
+    }
+    
+    form textarea {
+        width: 100%;
+        height: 5.8vw;
+    }
+    form p{
+        
+         font-size: 1.9vw;
+    }
+    form > h4{ 
+        margin-top: 1.3vw;
+        font-size: 1.9vw;
+      
+    }
+    .box button{
+        margin-top: 2.2vw;
+        
+        font-size: 1.9vw;
+        padding: 1.1vw 2vw;
+       
+    }
+}
+@media (min-width:600px) and (max-width:725px) {
+
+    .box {
+        width: 55%;
+        height: 60%;
+        padding: 6vw 3vw;
+        
+    }
+    
+    .box h3 {
+        margin-bottom: 2.6vw;
+        font-size: 3vw;
+    }
+    
+    form input{
+        
+        height: 3vw;
+        margin-bottom: 2vw;
+        margin-top: 0.4vw;
+    }
+    
+    form textarea {
+        width: 100%;
+        height: 6vw;
+    }
+    form p{
+        
+         font-size: 2.2vw;
+    }
+    form > h4{ 
+        margin-top: 1.6vw;
+        font-size:2.2vw;
+      
+    }
+    .box button{
+        margin-top: 2.5vw;
+        
+        font-size: 2.2vw;
+        padding: 1.3vw 2.3vw;
+       
+    }
+}
+@media (min-width:450px) and (max-width:600px) {
+    .main{
+        flex-direction: column;
+    }
+    .box {
+        width: 85%;
+        height: 75%;
+        padding: 5vw 8vw;
+        
+    }
+    
+    .box h3 {
+        margin-bottom:3vw;
+        font-size: 6vw;
+    }
+    
+    form input{
+        
+        height: 5vw;
+        margin-bottom: 4vw;
+        margin-top: 1vw;
+    }
+    
+    form textarea {
+      
+        height: 12vw;
+    }
+    form p{
+        
+         font-size: 3.5vw;
+    }
+    form > h4{ 
+        margin-top: 2vw;
+        font-size:3.5vw;
+      
+    }
+    .box button{
+        margin-top: 3vw;
+        font-size: 3.5vw;
+        padding: 1.8vw 3vw;
+       
+    }
+}
+@media (min-width:300px) and (max-width:450px) {
+    .main{
+        flex-direction: column;
+    }
+    .box {
+        width: 85%;
+        height: 65%;
+        padding: 5vw 8vw;
+        
+    }
+    
+    .box h3 {
+        margin-bottom:3vw;
+        font-size: 6vw;
+    }
+    
+    form input{
+        
+        height: 5vw;
+        margin-bottom: 4vw;
+        margin-top: 1vw;
+    }
+    
+    form textarea {
+      
+        height: 12vw;
+    }
+    form p{
+        
+         font-size: 3.5vw;
+    }
+    form > h4{ 
+        margin-top: 2vw;
+        font-size:3.5vw;
+      
+    }
+    .box button{
+        margin-top: 3vw;
+        font-size: 3.5vw;
+        padding: 1.8vw 3vw;
+       
+    }
+}
+@media  (max-width:300px) {
+    .main{
+        flex-direction: column;
+    }
+    .box {
+        width: 85%;
+        height: 50%;
+        padding: 5vw 8vw;
+        
+    }
+    
+    .box h3 {
+        margin-bottom:3vw;
+        font-size: 6vw;
+    }
+    
+    form input{
+        
+        height: 5vw;
+        margin-bottom: 4vw;
+        margin-top: 1vw;
+    }
+    
+    form textarea {
+      
+        height: 12vw;
+    }
+    form p{
+        
+         font-size: 3.5vw;
+    }
+    form > h4{ 
+        margin-top: 2vw;
+        font-size:3.5vw;
+      
+    }
+    .box button{
+        margin-top: 3vw;
+        font-size: 3.5vw;
+        padding: 1.8vw 3vw;
+       
+    }
+}
